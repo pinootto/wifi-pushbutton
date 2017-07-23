@@ -6,5 +6,5 @@ The firmware uses Arduino libraries.
 
 The software is written in python and implements a web service for sending messages to wechat accounts (both individuals and groups).
 
-The web service can also be triggered by cron, in addition to the wifi-pushbotton.
+The web service can also be triggered by cron, in addition to the wifi-pushbutton.
 
