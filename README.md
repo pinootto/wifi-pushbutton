@@ -1,6 +1,6 @@
 # wifi-pushbutton
 
-At present the hardware is a WeMos D1 mini (ESP8266-16F).
+At present the hardware is a WeMos D1 mini (ESP8266-12F).
 
 The firmware uses Arduino libraries.
 
